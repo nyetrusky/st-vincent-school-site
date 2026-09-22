@@ -125,7 +125,7 @@ export default function Home() {
         <div className="container flex items-center justify-between py-5">
           <button className="brand-lockup" onClick={() => navigateTo("top")} aria-label="Go to top">
             <span className="brand-seal">VSOP</span>
-            <span className="brand-name"><strong>Village School</strong><small>of Parkwoods</small></span>
+            <span className="brand-name"><strong>Village School Of Parkwoods</strong><small>of Parkwoods</small></span>
           </button>
 
           <nav className="hidden items-center gap-8 lg:flex" aria-label="Main navigation">
